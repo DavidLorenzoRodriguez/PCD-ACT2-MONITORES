@@ -5,7 +5,7 @@
 <a><img src="https://www.tabnine.com/blog/wp-content/uploads/2019/04/Artboard-Copy-3.jpg" title="PDC" alt="PDC"></a>
 
 
-<br/>Semaforos  en Java
+<br/>Monitores  en Java
 
 <br/>Alumno: David Lorenzo Rodríguez 44485925S
 
